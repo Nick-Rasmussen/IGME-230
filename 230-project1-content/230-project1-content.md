@@ -83,13 +83,9 @@ Your crew is depending on you for a smooth ride into space, and that doesn't inc
 
 ## Screenshots:
 
-![placeHolderImage](media/dog.jpg)<br />
-
-![placeHolderImage](media/dog.jpg)<br />
-![placeHolderImage](media/dog.jpg)<br />
-
-
-
+![placeHolderImage](media/dog.jpg)
+![placeHolderImage](media/dog.jpg)
+![placeHolderImage](media/dog.jpg)
 
 ## About the Developer
 
